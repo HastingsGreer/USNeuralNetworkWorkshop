@@ -1,5 +1,6 @@
 Pillow
 matplotlib
+scipy
 jupyter
 keras
 tensorflow
