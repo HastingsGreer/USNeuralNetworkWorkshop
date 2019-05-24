@@ -1,4 +1,4 @@
-# USNeuralNetworkWorkshop
+# UltrasoundNeuralNetworkWorkshop
 
 Repository for Kitware's Neural Networks for Ultrasound Tutorial.
 
