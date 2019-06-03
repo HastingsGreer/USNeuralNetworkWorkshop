@@ -12,10 +12,10 @@ https://developer.nvidia.com/cuda-toolkit-archive
 
 https://developer.nvidia.com/cudnn
 
-Intermission: Install python 3.6 and create a virtual environment.
+Intermission: Install python 3.6 and create, and activate a virtual environment.
 
 https://packaging.python.org/guides/installing-using-pip-and-virtual-environments/
 
 4: pip install tensorflow-gpu==1.13.1
 
-5: pip install keras
+5: pip install keras jupyter matplotlib
