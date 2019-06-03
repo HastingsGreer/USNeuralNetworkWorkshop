@@ -9,7 +9,7 @@ https://www.geforce.com/drivers
 https://developer.nvidia.com/cuda-toolkit-archive
 
 3: Install CUDNN 7.4.1:
-
+To download thesoftware, you will have to sign up for an Nvidia Developer account.
 https://developer.nvidia.com/cudnn
 
 Intermission: Install python 3.6 and create, and activate a virtual environment.
