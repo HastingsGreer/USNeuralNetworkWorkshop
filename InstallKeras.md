@@ -1,6 +1,6 @@
 Steps to install Keras (Valid in June 2019)
 
-1: Update Nvidia Drivers
+1: Update Nvidia Drivers (at minimum, version 430)
 
 https://www.geforce.com/drivers
 
