@@ -1,6 +1,6 @@
-# UltrasoundNeuralNetworkWorkshop
+# Medical Neural Network Workshop
 
-Repository for Kitware's Neural Networks for Ultrasound Tutorial.
+Repository for Kitware's Neural Networks for Medical Tasks Tutorial.
 
 To install Keras and other necessary software, I recommend following the guide in InstallKeras.md
 
