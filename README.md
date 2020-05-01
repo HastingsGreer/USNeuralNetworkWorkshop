@@ -1,4 +1,4 @@
-# Medical Neural Network Workshop
+# Ultrasound Neural Network Workshop
 
 Repository for Kitware's Neural Networks for Medical Tasks Tutorial.
 
